@@ -1,0 +1,15 @@
+.count{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    padding: 25px;
+    min-width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    border-radius: 15px;
+    font-size: 160px;
+    background-color: white;
+    color: black;
+}

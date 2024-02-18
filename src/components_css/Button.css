@@ -1,0 +1,17 @@
+.buttonClick{
+    cursor: pointer;
+    margin-right: 8px; 
+    width: 200px;
+    height: 100px;
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    border: 5px solid white;
+    background-color: red; 
+}
+
+.buttonClick:active {
+    background-color: green;
+}
