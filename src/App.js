@@ -1,9 +1,9 @@
 import './App.css';
 import Button from './components/Button';
 import Count from './components/Count';
-import Blocked from  './components/Blocked';
+import Blocked from  './components/Blocking';
 import Reload from  './components/Reload';
-import logoGamer from './img/logo-gamer.png';
+import logoGamer from './img/logo_gamer.jpg';
 import {  useState, useEffect } from 'react';
 
 function App() {

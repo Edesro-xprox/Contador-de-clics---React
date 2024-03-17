@@ -5,12 +5,13 @@
 
 .messageLoad{
     font-size: 25px;
+    color: white;
 }
 
 .load{
     margin-left: auto;
     margin-right: auto;
-    border: 8px solid rgba(0,0,0,0.1);
+    border: 8px solid black;
     border-top: 8px solid #3498db;
     border-radius: 50%;
     width: 200px;
@@ -29,4 +30,5 @@
     left: 42%;
     text-align: center;
     font-size: 80px;
+    color: white;
 }

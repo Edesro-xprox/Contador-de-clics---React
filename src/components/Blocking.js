@@ -1,5 +1,5 @@
 import React from "react";
-import '../components_css/Blocked.css';
+import '../components_css/Blocking.css';
 
 function Blocked({count}){
     return(
